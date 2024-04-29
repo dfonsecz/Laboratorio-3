@@ -5,6 +5,9 @@
 # Laboratorio 3
 
 ## Introducción
+### Ejercicio 1
+### Ejercicio 2
+### Ejercicio 3
 ## Implementación
 ## Resultados
 ## Conclusiones y recomendaciones
