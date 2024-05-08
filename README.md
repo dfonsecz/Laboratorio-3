@@ -6,6 +6,7 @@
 
 ## Introducción
 ### Ejercicio 1
+El objetivo de este código es calcular los primeros 100 números triangulares.
 ### Ejercicio 2
 ### Ejercicio 3
 ## Implementación
