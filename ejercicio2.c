@@ -31,7 +31,7 @@ int main (int argc, char *argv[]) {
     int facn2 = factorial(n2);
 
     // Imprimir mensaje con los resultados de los calculos
-    printf("%d! = %d, %d! = %d\n", n1, facn1, n1, facn2);
+    printf("%d! = %d, %d! = %d\n", n1, facn1, n2, facn2);
 
     return 0;
 }
