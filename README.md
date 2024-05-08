@@ -13,7 +13,11 @@ t_n = \frac{n(n+1)}{2}
 $$
 
 ### Ejercicio 2
-Para este ejercicio el objetivo es modificar un código proporcionado para que cumpla la funcionalidad correcta, la cuál es calcular el factorial de dos números proporcionados.
+Para este ejercicio el objetivo es modificar un código proporcionado para que cumpla la funcionalidad correcta, la cuál es calcular el factorial de dos números proporcionados. La función factorial de un número se representa como $n!$, y corresponde a la multiplicación de todos los números enteros hasta el número $n$.
+
+$$
+n! = 1 \cdot 2 \cdot 3 \cdot ... \cdot n
+$$
 
 ### Ejercicio 3
 ## Implementación
