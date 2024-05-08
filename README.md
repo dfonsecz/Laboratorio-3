@@ -23,7 +23,7 @@ n! = 1 \cdot 2 \cdot 3 \cdot ... \cdot n
 $$
 
 ### Ejercicio 3
-Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times x$, donde $n = 5$.
+Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times n$, donde $n = 5$. Sin embargo, se solicita que el usuario sea capaz de ingresar el tamaño de la matriz que desea. En el código, se implementó que este valor pueda ser ingresado en la línea de comandos. De lo contrario, se utiliza un número aleatorio.
 
 ## Resultados
 ## Conclusiones y recomendaciones
