@@ -16,3 +16,4 @@ Para este ejercicio el objetivo es modificar un código proporcionado para que c
 ## Resultados
 ## Conclusiones y recomendaciones
 ## Referencias
+[1] E. Dionisio Pérez, “Juegos Matemáticos Números Triangulares Cuadrados,” Pensamiento Matemático, vol. IV, no. 1, Apr. 1, 2014 
