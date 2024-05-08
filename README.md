@@ -6,10 +6,14 @@
 
 ## Introducción
 
+`C` es un lenguaje de programación que ha sentado las bases para muchos otros sucesores, y continúa siendo de alta importancia. Si bien es simple, al tener pocas funciones nativas, es poderoso en cuanto a funcionalidad. Una de las ventajas que tiene es que es áltamente rápido [[1]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
+
+A través de la resolución de problemas prácticos, se buscó profundizar en el entendimiento del lenguaje y desarrollar habilidades de programación sólidas en C.
+
 ## Implementación
 
 ### Ejercicio 1
-El objetivo de este código es calcular los primeros 100 números triangulares. Los números triangulares se cumplen con la siguiente expresión [[1]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
+El objetivo de este código es calcular los primeros 100 números triangulares. Los números triangulares se cumplen con la siguiente expresión [[2]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
 
 $$
 t_n = \frac{n(n+1)}{2}
@@ -39,7 +43,7 @@ int factorial (int n) {
 }
 ```
 
-Para permitir que el usuario ingrese los números para los cuales quiere calcular el factorial, se utilizó la función `atoi()`, la cual permite convertir una serie de caracteres en enteros [[2]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias). Con esta se leen los argumentos ingresados por el usuario.
+Para permitir que el usuario ingrese los números para los cuales quiere calcular el factorial, se utilizó la función `atoi()`, la cual permite convertir una serie de caracteres en enteros [[3]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias). Con esta se leen los argumentos ingresados por el usuario.
 
 ```
 // Convertir character string a int
@@ -81,5 +85,6 @@ Al ejecutar el archivo generado por `ejercicio3.c`, sin especificar un argumento
 2. Así mismo, se recomienda trabajar cada modificación al output final (el entregable) por separado y unirlo al final. Si se hacen demasiadas actualzaciones durante el proceso puede resultar de manera desordenada.
 
 ## Referencias
-[1] E. Dionisio Pérez, “Juegos Matemáticos Números Triangulares Cuadrados,” Pensamiento Matemático, vol. IV, no. 1, Apr. 1, 2014 
-[2] IBM, “atoi ()- convertir Serie de caracteres en entero,” IBM, https://www.ibm.com/docs/es/i/7.5?topic=functions-atoi-convert-character-string-integer. 
+[1] “C introduction,” W3 Schools, https://www.w3schools.com/c/c_intro.php (accessed May 7, 2024). 
+[2] E. Dionisio Pérez, “Juegos Matemáticos Números Triangulares Cuadrados,” Pensamiento Matemático, vol. IV, no. 1, Apr. 1, 2014 
+[3] IBM, “atoi ()- convertir Serie de caracteres en entero,” IBM, https://www.ibm.com/docs/es/i/7.5?topic=functions-atoi-convert-character-string-integer. 
