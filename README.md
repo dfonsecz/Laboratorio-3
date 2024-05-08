@@ -77,6 +77,9 @@ Al ejecutar el archivo generado por `ejercicio3.c`, sin especificar un argumento
 ![ejercicio3.c](images/ejercicio3-2.png)
 
 ## Conclusiones y recomendaciones
+1. Se recomienda prestar compilar el código continuamente conforme se va realizando cambios por dos motivos: a) para identificar de forma temprana los errores, b) para identificar cuáles son estos errores, ya que al compilar, la ventana de la terminal indica cierto mensaje que puede ser útil para entender el error.
+2. Así mismo, se recomienda trabajar cada modificación al output final (el entregable) por separado y unirlo al final. Si se hacen demasiadas actualzaciones durante el proceso puede resultar de manera desordenada.
+
 ## Referencias
 [1] E. Dionisio Pérez, “Juegos Matemáticos Números Triangulares Cuadrados,” Pensamiento Matemático, vol. IV, no. 1, Apr. 1, 2014 
 [2] IBM, “atoi ()- convertir Serie de caracteres en entero,” IBM, https://www.ibm.com/docs/es/i/7.5?topic=functions-atoi-convert-character-string-integer. 
