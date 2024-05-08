@@ -31,7 +31,7 @@ Para este último ejercicio se proporciona un código base que define una matriz
 ### Ejercicio 3
 Si se ejecuta el archivo 'ejercicio3.c 7', se obtiene una matriz $7 \times 7$, como la que se observa en la imagen. Se obtiene además el tamaño de la matriz $m \times m$ de 1's más grande generada.
 
-
+![ejercicio3.c](images/ej3-1.png)
 
 Al ejecutar el archivo 'ejercicio3.c', sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de 1's.
 
