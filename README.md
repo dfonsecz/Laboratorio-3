@@ -35,6 +35,8 @@ int factorial (int n) {
 }
 ```
 
+Para permitir que el usuario ingrese los números para los cuales quiere calcular el factorial, se utilizó la función `atoi()`, la cual permite convertir una serie de caracteres en enteros [[2]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
+
 ### Ejercicio 3
 Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times n$, donde $n = 5$. Sin embargo, se solicita que el usuario sea capaz de ingresar el tamaño de la matriz que desea. En el código, se implementó que este valor pueda ser ingresado en la línea de comandos. De lo contrario, se utiliza un número aleatorio.
 
@@ -59,3 +61,4 @@ Al ejecutar el archivo `ejercicio3.c`, sin especificar un argumento, se genera u
 ## Conclusiones y recomendaciones
 ## Referencias
 [1] E. Dionisio Pérez, “Juegos Matemáticos Números Triangulares Cuadrados,” Pensamiento Matemático, vol. IV, no. 1, Apr. 1, 2014 
+[2] IBM, “atoi ()- convertir Serie de caracteres en entero,” IBM, https://www.ibm.com/docs/es/i/7.5?topic=functions-atoi-convert-character-string-integer. 
