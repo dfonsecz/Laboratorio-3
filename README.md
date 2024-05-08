@@ -58,13 +58,17 @@ Así mismo, se añadió una función que imprima toda la matriz.
 
 ## Resultados
 ### Ejercicio 1
+Como se puede observar a continuación, al ejecutar la función, se calculan e imprimen los primeros 100 números triangulares.
+
 ### Ejercicio 2
+Al ejecutar el archivo generado por `ejercicio2.c`, colocando dos números enteros como argumento, se calculan e imprimen los factoriales de estos números.
+
 ### Ejercicio 3
-Si se ejecuta el archivo `ejercicio3.c 7`, se obtiene una matriz $7 \times 7$, como la que se observa en la imagen. Se obtiene además el tamaño de la matriz $m \times m$ de 1's más grande generada, la cual en este caso es de $2 \times 2$.
+Si se ejecuta el archivo generado por `ejercicio3.c` con un argumento (i.e. `./a.out 7`), se obtiene una matriz $7 \times 7$, como la que se observa en la imagen. Se obtiene además el tamaño de la matriz $m \times m$ de 1's más grande generada, la cual en este caso es de $2 \times 2$.
 
 ![ejercicio3.c](images/ejercicio3-1.png)
 
-Al ejecutar el archivo `ejercicio3.c`, sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de 1's, que en este caso también es de $2 \times 2$.
+Al ejecutar el archivo generado por `ejercicio3.c`, sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de 1's, que en este caso también es de $2 \times 2$.
 
 ![ejercicio3.c](images/ejercicio3-2.png)
 
