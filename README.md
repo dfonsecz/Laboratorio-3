@@ -6,7 +6,7 @@
 
 ## Introducción
 ### Ejercicio 1
-El objetivo de este código es calcular los primeros 100 números triangulares. Los números triangulares se cumplen con la siguiente expresión [[1]](https://github.com/dfonsecz/Laboratorio-1?tab=readme-ov-file#referencias).
+El objetivo de este código es calcular los primeros 100 números triangulares. Los números triangulares se cumplen con la siguiente expresión [[1]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
 
 $$
 t_n = \frac{n(n+1)}{2}
