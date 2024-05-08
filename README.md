@@ -15,6 +15,10 @@ $$
 t_n = \frac{n(n+1)}{2}
 $$
 
+Se implementó una función que recibe un parámetro entero $n$, y obtiene el $n-énesimo$ número triangular a partir de la expresión anterior.
+
+Posteriormente, en la función principal se imprimen los primeros 100 números triangulares.
+
 ### Ejercicio 2
 Para este ejercicio el objetivo es modificar un código proporcionado para que cumpla la funcionalidad correcta, la cuál es calcular el factorial de dos números proporcionados. La función factorial de un número se representa como $n!$, y corresponde a la multiplicación de todos los números enteros hasta el número $n$.
 
