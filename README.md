@@ -25,15 +25,17 @@ $$
 ### Ejercicio 3
 Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times n$, donde $n = 5$. Sin embargo, se solicita que el usuario sea capaz de ingresar el tamaño de la matriz que desea. En el código, se implementó que este valor pueda ser ingresado en la línea de comandos. De lo contrario, se utiliza un número aleatorio.
 
+Para efectos de que la matriz generada no sea excesivamente grande, se puso un límite para que $n$ no sobrepase 10.
+
 ## Resultados
 ### Ejercicio 1
 ### Ejercicio 2
 ### Ejercicio 3
-Si se ejecuta el archivo 'ejercicio3.c 7', se obtiene una matriz $7 \times 7$, como la que se observa en la imagen. Se obtiene además el tamaño de la matriz $m \times m$ de 1's más grande generada, la cual en este caso es de $2 \times 2$.
+Si se ejecuta el archivo `ejercicio3.c 7`, se obtiene una matriz $7 \times 7$, como la que se observa en la imagen. Se obtiene además el tamaño de la matriz $m \times m$ de 1's más grande generada, la cual en este caso es de $2 \times 2$.
 
 ![ejercicio3.c](images/ejercicio3-1.png)
 
-Al ejecutar el archivo 'ejercicio3.c', sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de 1's, que en este caso también es de $2 \times 2$.
+Al ejecutar el archivo `ejercicio3.c`, sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de 1's, que en este caso también es de $2 \times 2$.
 
 ![ejercicio3.c](images/ejercicio3-2.png)
 
