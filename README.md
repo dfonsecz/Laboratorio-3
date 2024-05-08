@@ -5,6 +5,9 @@
 # Laboratorio 3
 
 ## Introducción
+
+## Implementación
+
 ### Ejercicio 1
 El objetivo de este código es calcular los primeros 100 números triangulares. Los números triangulares se cumplen con la siguiente expresión [[1]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
 
@@ -20,7 +23,8 @@ n! = 1 \cdot 2 \cdot 3 \cdot ... \cdot n
 $$
 
 ### Ejercicio 3
-## Implementación
+Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times x$, donde $n = 5$.
+
 ## Resultados
 ## Conclusiones y recomendaciones
 ## Referencias
