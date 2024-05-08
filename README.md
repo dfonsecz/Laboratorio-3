@@ -29,7 +29,7 @@ Para este último ejercicio se proporciona un código base que define una matriz
 ### Ejercicio 1
 ### Ejercicio 2
 ### Ejercicio 3
-Al ejecutar el archivo 'ejercicio3.c', sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de números.
+Al ejecutar el archivo 'ejercicio3.c', sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de 1's.
 
 ![ejercicio3.c](images/ej3-2.png)
 
