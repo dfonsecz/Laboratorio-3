@@ -25,7 +25,11 @@ $$
 ### Ejercicio 3
 Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times n$, donde $n = 5$. Sin embargo, se solicita que el usuario sea capaz de ingresar el tamaño de la matriz que desea. En el código, se implementó que este valor pueda ser ingresado en la línea de comandos. De lo contrario, se utiliza un número aleatorio.
 
-Para efectos de que la matriz generada no sea excesivamente grande, se puso un límite para que $n$ no sobrepase 10.
+En primer lugar, se añadió una función para generar la matriz aleatoria, de un tamaño $n \times n$. El tamaño de esta función está definido por el argumento que ingresa el usuario, que es recibido en la función principal, y utilizado como variable al llamar a la función que genera la matriz. Para efectos de que la matriz generada no sea excesivamente grande, se puso un límite para que $n$ no sobrepase 10.
+
+En la implementación de la función `findLargestSquare`, se aplicó un for loop que itera sobre la matriz y evalúa si los números adyacentes corresponden a 1's. Si esto sucede, incrementa el contador del 'tamaño de la matriz de 1's actual'. De ser el caso de que la variable `largestSquareSize` sea menor que ese contador, se actualiza el valor de esta para que continúe siendo el mayor.
+
+Así mismo, se añadió una función que imprima toda la matriz.
 
 ## Resultados
 ### Ejercicio 1
