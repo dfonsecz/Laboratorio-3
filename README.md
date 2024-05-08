@@ -26,7 +26,10 @@ $$
 Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times n$, donde $n = 5$. Sin embargo, se solicita que el usuario sea capaz de ingresar el tamaño de la matriz que desea. En el código, se implementó que este valor pueda ser ingresado en la línea de comandos. De lo contrario, se utiliza un número aleatorio.
 
 ## Resultados
-
+### Ejercicio 1
+### Ejercicio 2
+### Ejercicio 3
+Al ejecutar el archivo 'ejercicio3.c', sin especificar un argumento, se genera una matriz de tamaño aleatorio. El programa también obtiene el tamaño de la matriz $m \times m$ más grande de números.
 ![ejercicio3.c](images/ej3-2.png)
 
 ## Conclusiones y recomendaciones
