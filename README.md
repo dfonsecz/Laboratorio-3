@@ -22,6 +22,19 @@ $$
 n! = 1 \cdot 2 \cdot 3 \cdot ... \cdot n
 $$
 
+Con respecto al error en el código, lo que se modificó fue la declaración de una variable en la función factorial, cuyo tipo ya estaba declarado anteriormente.
+
+```
+int factorial (int n) {
+    int i = 1;
+    while (n > 1) {
+        i = i * n;
+        n = n - 1; // Corregido - se quito la declaracion de la variable, era redundante
+    }
+    return i;
+}
+```
+
 ### Ejercicio 3
 Para este último ejercicio se proporciona un código base que define una matriz cuadrada $n \times n$, donde $n = 5$. Sin embargo, se solicita que el usuario sea capaz de ingresar el tamaño de la matriz que desea. En el código, se implementó que este valor pueda ser ingresado en la línea de comandos. De lo contrario, se utiliza un número aleatorio.
 
