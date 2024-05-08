@@ -60,8 +60,12 @@ Así mismo, se añadió una función que imprima toda la matriz.
 ### Ejercicio 1
 Como se puede observar a continuación, al ejecutar la función, se calculan e imprimen los primeros 100 números triangulares.
 
+![ejercicio1.c](images/ejercicio1.png)
+
 ### Ejercicio 2
 Al ejecutar el archivo generado por `ejercicio2.c`, colocando dos números enteros como argumento, se calculan e imprimen los factoriales de estos números.
+
+![ejercicio2.c](images/ejercicio2.png)
 
 ### Ejercicio 3
 Si se ejecuta el archivo generado por `ejercicio3.c` con un argumento (i.e. `./a.out 7`), se obtiene una matriz $7 \times 7$, como la que se observa en la imagen. Se obtiene además el tamaño de la matriz $m \times m$ de 1's más grande generada, la cual en este caso es de $2 \times 2$.
