@@ -6,9 +6,9 @@
 
 ## Introducción
 
-`C` es un lenguaje de programación que ha sentado las bases para muchos otros sucesores, y continúa siendo de alta importancia. Si bien es simple, al tener pocas funciones nativas, es poderoso en cuanto a funcionalidad. Una de las ventajas que tiene es que es áltamente rápido [[1]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
+`C` es un lenguaje de programación que ha sentado las bases para muchos otros sucesores, y continúa siendo de alta importancia. Si bien es simple, al tener pocas funciones nativas, es poderoso en cuanto a funcionalidad. Una de las ventajas que tiene es que es áltamente rápido. Pese a ser un lenguaje viejo, es fundamental en el campo de la informática [[1]](https://github.com/dfonsecz/Laboratorio-3?tab=readme-ov-file#referencias).
 
-A través de la resolución de problemas prácticos, se buscó profundizar en el entendimiento del lenguaje y desarrollar habilidades de programación sólidas en C.
+A través de este trabajo, se desarrolló la resolución de problemas prácticos, se buscó profundizar en el entendimiento del lenguaje y desarrollar habilidades de programación sólidas en C.
 
 ## Implementación
 
